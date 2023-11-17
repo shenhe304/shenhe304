@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Miwa!
-- 🌱 I’m currently keep learning ...javascript, Web design, English, Mandarin...and so on. We don't have a goal to finish studying.
+- 🌱 I’m currently keep learning ...javascript, Web design, English, Mandarin...and so on. We should keed studying!
 - 📫 How to reach me ...Let's look on my portfolio! My contact information is there.
 
 <!---
