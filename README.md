@@ -1,7 +1,7 @@
-- 🆕 It's my NEW github account.
-- 👋 Hi, I’m Miwa!
+- 👋 Hi, I’m Miwa who is a web designer, UI/UX designer and web developer.
+- 💕 I'm interested in Board game, Coffee, Walking, Hiking, Youtube, Anime!
 - 🌱 I’m currently keep learning ...javascript, Web design, English, Mandarin...and so on. We should keed studying!
-- 📫 How to reach me ...Let's look on my portfolio! My contact information is there.
+- 📫 If you're interested me please send me email: miwak.work@gmail.com
 
 <!---
 shenhe304/shenhe304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
