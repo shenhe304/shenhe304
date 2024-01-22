@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Miwa, a UX/UI designer, based in Vancouver🇨🇦
-- 💕 I'm interested in Boardgame, Coffee, Walking, Hiking, Youtube, Anime!
+- 💕 I'm interested in Boardgame, Coffee, Hiking, Watch Vlog, and, Anime!
 - 🌱 I’m currently doing ... Creating UI designs, Studying English and Mandarin, and Exploring cafes in Canada!
 - 📫 If you're interested in me please send me an email: miwak.work@gmail.com
 
