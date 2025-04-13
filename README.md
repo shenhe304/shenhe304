@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Miwa, a UX/UI designer | Web designer, based in Vancouver🇨🇦
-- 👀 4+ years of experience creating visually clear, user-friendly designs that solve problems
+- 👀 5+ years of experience creating visually clear, user-friendly designs that solve problems
 - 💕 I'm interested in Boardgame, Coffee, Hiking, Watch Vlog, and, Anime!
 - 📫 If you're interested in me please send me an email: miwak.work@gmail.com
 
