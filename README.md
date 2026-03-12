@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Miwa, a UX/UI designer, based in Vancouver🇨🇦
+- 👋 Hi, I’m Miwa, a Product designer, based in Vancouver🇨🇦
 - 👀 6+ years of experience creating visually clear, user-friendly designs that solve problems
 - 💕 I'm interested in Boardgame, Coffee, Hiking, and, Anime!
 - 📫 If you're interested in me please send me an email: miwak.work@gmail.com
