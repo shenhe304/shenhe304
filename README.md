@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Miwa, a Product designer, based in Vancouver🇨🇦
-- 👀 6+ years of experience creating visually clear, user-friendly designs that solve problems
-- 💕 I'm interested in board games, Coffee, and mahjong!
-- 📫 If you're interested in me, please send me an email: miwak.work@gmail.com
+- 👋 Hi, I'm Miwa 🇯🇵, a Product Designer based in Vancouver 🇨🇦
+- 👀 6+ years in design, specializing in turning complex workflows and systems into intuitive, user-friendly experiences.
+- 💕 Into board games, coffee, and mahjong 🀄️
+- 📫 Let's connect: miwak.work@gmail.com
 
 <!---
 shenhe304/shenhe304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
